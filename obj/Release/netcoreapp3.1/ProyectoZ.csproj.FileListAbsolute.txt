@@ -1,0 +1,15 @@
+D:\VisualStudio\ProyectoZ\ProyectoZ\bin\Release\netcoreapp3.1\ProyectoZ.exe
+D:\VisualStudio\ProyectoZ\ProyectoZ\bin\Release\netcoreapp3.1\ProyectoZ.deps.json
+D:\VisualStudio\ProyectoZ\ProyectoZ\bin\Release\netcoreapp3.1\ProyectoZ.runtimeconfig.json
+D:\VisualStudio\ProyectoZ\ProyectoZ\bin\Release\netcoreapp3.1\ProyectoZ.runtimeconfig.dev.json
+D:\VisualStudio\ProyectoZ\ProyectoZ\bin\Release\netcoreapp3.1\ProyectoZ.dll
+D:\VisualStudio\ProyectoZ\ProyectoZ\bin\Release\netcoreapp3.1\ProyectoZ.pdb
+D:\VisualStudio\ProyectoZ\ProyectoZ\obj\Release\netcoreapp3.1\ProyectoZ.csprojAssemblyReference.cache
+D:\VisualStudio\ProyectoZ\ProyectoZ\obj\Release\netcoreapp3.1\ProyectoZ.Form1.resources
+D:\VisualStudio\ProyectoZ\ProyectoZ\obj\Release\netcoreapp3.1\ProyectoZ.csproj.GenerateResource.cache
+D:\VisualStudio\ProyectoZ\ProyectoZ\obj\Release\netcoreapp3.1\ProyectoZ.AssemblyInfoInputs.cache
+D:\VisualStudio\ProyectoZ\ProyectoZ\obj\Release\netcoreapp3.1\ProyectoZ.AssemblyInfo.cs
+D:\VisualStudio\ProyectoZ\ProyectoZ\obj\Release\netcoreapp3.1\ProyectoZ.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ProyectoZ\ProyectoZ\obj\Release\netcoreapp3.1\ProyectoZ.dll
+D:\VisualStudio\ProyectoZ\ProyectoZ\obj\Release\netcoreapp3.1\ProyectoZ.pdb
+D:\VisualStudio\ProyectoZ\ProyectoZ\obj\Release\netcoreapp3.1\ProyectoZ.genruntimeconfig.cache
