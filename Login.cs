@@ -28,7 +28,7 @@ namespace FolderMedia_tools
             login_info.Text = "Intentando conectar.................";
 
             MySqlConnection con = new MySqlConnection(
-                "Server=ds.hack3.cat; Port=33066; User ID=proyectoz_tools; Password=08139724; Database=desktop_apps");
+                "Server=hack3.es; Port=34466; User ID=proyectoz_tools; Password=13082497; Database=desktop_apps");
 
             try
             {
